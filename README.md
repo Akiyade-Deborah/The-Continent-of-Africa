@@ -57,9 +57,9 @@
     <p>African people have faced significant challenges, including poverty, political instability, and the effects of colonialism. Yet, African societies have shown incredible resilience and innovation in overcoming these challenges. Movements advocating for human rights, environmental sustainability, and economic empowerment continue to grow across the continent.</p>
     <h4>Related posts</h4>
     <ul>
-        <li><img src="starter/african-languages.jpg"> <a href="" target="_blank">The Languages of the African People</a><br>By James Gichinga</li>
-        <li><img src="starter/africa-is-rich.jpg"> <a href="" target="_blank">Why Africa is a Rich Continent</a><br>By Emeka Ofodu</li>
-        <li><img src="starter/diaspora-africa.jpg"> <a href="" target="_blank">Africans outside of the African continent?</a><br>By Phillipe Armstrong</li>
+        <li><img src="starter/african-languages.jpg"><a href="" target="_blank">The Languages of the African People</a><br>By James Gichinga</li>
+        <li><img src="starter/africa-is-rich.jpg"><a href="" target="_blank">Why Africa is a Rich Continent</a><br>By Emeka Ofodu</li>
+        <li><img src="starter/diaspora-africa.jpg"><a href="" target="_blank">Africans outside of the African continent?</a><br>By Phillipe Armstrong</li>
     </ul>
     <hr>
     </header>
