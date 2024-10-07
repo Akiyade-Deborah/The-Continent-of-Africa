@@ -9,14 +9,16 @@
 <body>
     <header>
         <h1>📚 Africa Gazette </h1>
-        <ul class="ul">
-        <li><a href="#the-people">The People</a></li>
-        <li><a href="#the-land">The Land</a></li>
-        <li><a href="#language">language</a></li>
-        <li><a href="#weather">Weather</a></li>
-        <li><a href="#culture">Culture</a></li>
-        </ul>
-    <h2>The Continent of Africa</h2>
+        <div>
+            <ul>
+            <li><a href="#the-people">The People</a></li>
+            <li><a href="#the-land">The Land</a></li>
+            <li><a href="#language">language</a></li>
+            <li><a href="#weather">Weather</a></li>
+            <li><a href="#culture">Culture</a></li>
+            </ul>
+        </div>
+    <h2 id="the-land">The Continent of Africa</h2>
     <img src="starter/profile.jpg" alt="profile" class="profile">
     <p>Posted by <strong>John Doe </strong> Saturday, October 5, 2024</p>
     <img src="starter/africa.jpg" alt="africa" class="africa" >
@@ -28,7 +30,7 @@
     <h3>History and Heritage</h3>
     <p>African civilizations have a long and influential history, from the powerful empires of Egypt, Mali, and Great Zimbabwe to the sophisticated trade routes across the Sahara. The continent is the birthplace of humanity, as the earliest human fossils have been found in East Africa. Over centuries, Africa faced colonization and the transatlantic slave trade, but it has also been a place of immense resistance, resilience, and liberation struggles.</p>
     <h3 id="the-people">Top 5 Countries by Population</h3>
-    <p>Africa's top 5 countries by population<sup><a href="[1]">[1]</a></sup> are:</p>
+    <p>Africa's top 5 countries by population<sup><a href="https://www.britannica.com/topic/list-of-African-countries-by-population" target="_blank">[1]</a></sup> are:</p>
     <ol>
         <li>Nigeria - Approximately 223 million people</li>
         <li> Ethiopia - Around 126 million people</li>
@@ -57,14 +59,14 @@
     <p>African people have faced significant challenges, including poverty, political instability, and the effects of colonialism. Yet, African societies have shown incredible resilience and innovation in overcoming these challenges. Movements advocating for human rights, environmental sustainability, and economic empowerment continue to grow across the continent.</p>
     <h4>Related posts</h4>
     <ul>
-        <li><img src="starter/african-languages.jpg"><a href="" target="_blank">The Languages of the African People</a><br>By James Gichinga</li>
-        <li><img src="starter/africa-is-rich.jpg"><a href="" target="_blank">Why Africa is a Rich Continent</a><br>By Emeka Ofodu</li>
-        <li><img src="starter/diaspora-africa.jpg"><a href="" target="_blank">Africans outside of the African continent?</a><br>By Phillipe Armstrong</li>
+        <li class="james"><img src="starter/african-languages.jpg"><a href="" target="_blank">The Languages of the African People</a><br><br>By James Gichinga</li>
+        <li  class="emeka"><img src="starter/africa-is-rich.jpg"><a href="" target="_blank">Why Africa is a Rich Continent</a><br><br>By Emeka Ofodu</li>
+        <li class="phil"><img src="starter/diaspora-africa.jpg"><a href="" target="_blank">Africans outside of the African continent?</a><br><br>By Phillipe Armstrong</li>
     </ul>
     <hr>
     </header>
     <footer>
-      <p><sup>1</sup> These populations are estimates as of 2024, and the numbers are continuously changing due to growth rates across the continent. Source: <a href="" target="_blank">World Bank</a></p>
+      <p><sup>1</sup> These populations are estimates as of 2024, and the numbers are continuously changing due to growth rates across the continent. Source: <a href="https://www.worldbank.org/en/home" target="_blank">World Bank</a></p>
       <p>Copyright © 2024 by Africa Gazette</p>
     </footer>
 </body>
